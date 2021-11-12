@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="Label1" runat="server" Text="這裡要顯示打過的資料但是我不會"></asp:Label>     
         </div>
     </form>
 </body>
